@@ -33,7 +33,9 @@ Case study scenario:
 2. Clean and explore by removing unnecessary columns. Replace null values by fill-down function.
 3. Split the values by "Columns from example" and ensure the data types are correctly formatted.
 
-![image alt](<img width="1327" height="506" alt="image" src="https://github.com/user-attachments/assets/db3f759b-7e7a-45b6-846f-679b7cef0d13" />)
+![image alt](https://github.com/kristineng/PowerBI_Competitor-Sales-Analysis/blob/f23c4f17e407b0e1c6e944e07291265939b7e998/Photos/Screenshot%202026-05-22%20080412.png)
+
+
 
 
 
