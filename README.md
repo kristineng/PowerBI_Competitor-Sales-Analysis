@@ -73,6 +73,8 @@ Case study scenario:
 3. Artisans emerged as the dominant competitor in Germany, holding over 50% market share.
 4. Sintec maintained solid global market share growth compared to competitors with 21.15%.
 
+#### For details of each data professions, please download the PowerBI file.
+
 Thank you!
 
 
